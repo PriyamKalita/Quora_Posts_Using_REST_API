@@ -1,0 +1,36 @@
+h1 {
+    color: red;
+}
+
+.post {
+    background-color: rgb(110, 246, 246);
+}
+
+.user {
+    font-style: italic;
+}
+body {
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 10px;
+    text-align: center;
+    }
+.post{
+    border: 10px solid rgb(255, 255, 255);
+}
+.ip{
+    text-decoration: none;
+}
+
+.ppp{
+    text-decoration: none;
+    font-size: 25px;
+    /* border: 3px solid aqua; */
+    border-radius: 5px;
+}
+.user{
+    color: rgb(0, 26, 255);
+}
+.content{
+    color: rgb(60, 60, 60);
+}

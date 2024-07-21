@@ -1,0 +1,7 @@
+Views All posts - http://localhost:8080/posts
+
+Create New Post - http://localhost:8080/posts/new
+
+See particular post in Details - http://localhost:8080/posts/def6c935-71b3-4946-ba26-04929eb28ad3
+
+Edit particular Post - http://localhost:8080/posts/def6c935-71b3-4946-ba26-04929eb28ad3/edit
